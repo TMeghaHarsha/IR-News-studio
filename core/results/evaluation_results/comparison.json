@@ -1,0 +1,66 @@
+{
+  "model1_name": "TF-IDF",
+  "model2_name": "BM25",
+  "metrics": {
+    "precision@5": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "recall@5": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "ndcg@5": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "precision@10": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "recall@10": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "ndcg@10": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "precision@20": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "recall@20": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "ndcg@20": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    },
+    "mrr": {
+      "TF-IDF_mean": 0.0,
+      "BM25_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "TF-IDF"
+    }
+  }
+}

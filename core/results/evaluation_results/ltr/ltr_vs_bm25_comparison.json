@@ -1,0 +1,66 @@
+{
+  "model1_name": "BM25",
+  "model2_name": "LTR",
+  "metrics": {
+    "precision@5": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "recall@5": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "ndcg@5": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "precision@10": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "recall@10": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "ndcg@10": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "precision@20": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "recall@20": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "ndcg@20": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    },
+    "mrr": {
+      "BM25_mean": 0.0,
+      "LTR_mean": 0.0,
+      "improvement_%": 0.0,
+      "winner": "BM25"
+    }
+  }
+}
